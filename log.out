@@ -1,0 +1,17 @@
+Error happens here
+Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at com.pranil.Log4J.App.divide(App.java:39)
+	at com.pranil.Log4J.App.main(App.java:29)
+Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at com.pranil.Log4J.App.divide(App.java:39)
+	at com.pranil.Log4J.App.main(App.java:29)
+Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at com.pranil.Log4J.App.divide(App.java:39)
+	at com.pranil.Log4J.App.main(App.java:29)
+Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at com.pranil.Log4J.App.divide(App.java:39)
+	at com.pranil.Log4J.App.main(App.java:29)
